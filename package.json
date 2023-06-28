@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/ampproject/amp-sw#readme",
   "devDependencies": {
-    "@babel/core": "7.1.2",
+    "@babel/core": "7.22.5",
     "@babel/plugin-syntax-dynamic-import": "7.2.0",
     "@babel/plugin-transform-async-to-generator": "7.2.0",
     "@babel/preset-env": "7.2.3",
